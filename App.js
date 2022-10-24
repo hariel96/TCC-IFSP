@@ -5,7 +5,7 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      login: '',
+      email: '',
       senha: ''
     };
   }
